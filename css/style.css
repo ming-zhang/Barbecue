@@ -1,0 +1,23 @@
+html { }
+body {
+	font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+	line-height: 1.5;
+}
+h1 {
+	text-align: center;
+}
+.navbar {
+	background-color: #9e86b2;
+}
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-brand {
+	color: #fff;
+}
+#cover {
+	margin-top: 60px;
+	padding: 0;
+}
+.row {
+	width: 100%;
+	height: 800px;
+}
