@@ -1,6 +1,6 @@
 html { }
 body {
-	font-family: 'Open Sans', 'Microsoft Yahei', '微软雅黑', STXihei, '华文细黑', sans-serif;
+	font-family: 'Frutiger Neue', 'Microsoft Yahei', '微软雅黑', STXihei, '华文细黑', sans-serif;
 	line-height: 1.5;
 }
 h1, h3, p {
@@ -35,6 +35,9 @@ h1, h3, p {
 .carousel-inner > .item > img {
 	position: absolute;
 	top: 0;
+}
+.carousel-control {
+	background: rgba(0,0,0,.5);
 }
 #content .row,
 #register, #signin {
